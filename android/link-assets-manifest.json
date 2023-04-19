@@ -1,0 +1,85 @@
+{
+  "migIndex": 1,
+  "data": [
+    {
+      "path": "Fonts/Axiforma-Black.ttf",
+      "sha1": "59cd5ab5ad3ef3f3eab3ceeb28bfff37ca904a3a"
+    },
+    {
+      "path": "Fonts/Axiforma-BlackItalic.ttf",
+      "sha1": "7e73b6d2818cc260bd0524ee4a7e0b521eec1339"
+    },
+    {
+      "path": "Fonts/Axiforma-Bold.ttf",
+      "sha1": "5e1b228414e2eea9b3760e42e41a1e5093dbcee0"
+    },
+    {
+      "path": "Fonts/Axiforma-BoldItalic.ttf",
+      "sha1": "ed9d64dd4e17ec9cfdcc48c594a977c442f60ed2"
+    },
+    {
+      "path": "Fonts/Axiforma-Book.ttf",
+      "sha1": "64e2a576b37d2b8d9345ba740b52d094ec354859"
+    },
+    {
+      "path": "Fonts/Axiforma-BookItalic.ttf",
+      "sha1": "431215a67051a5af4345407c8402f08a5363c7fc"
+    },
+    {
+      "path": "Fonts/Axiforma-ExtraBold.ttf",
+      "sha1": "0e14730178e530a11754d396167f8660506fe6ab"
+    },
+    {
+      "path": "Fonts/Axiforma-ExtraBoldItalic.ttf",
+      "sha1": "11c284ce8a00d380952abb1174ef220883876dfa"
+    },
+    {
+      "path": "Fonts/Axiforma-Heavy.ttf",
+      "sha1": "8a81780c42cfb781fb01f5e501e8806e245c4aa0"
+    },
+    {
+      "path": "Fonts/Axiforma-HeavyItalic.ttf",
+      "sha1": "775f38a5b7a1a4c42aa85fca342860853e7294c1"
+    },
+    {
+      "path": "Fonts/Axiforma-Italic.ttf",
+      "sha1": "d6122021181aa4ea6ac86e18d20e8edf4762d6fb"
+    },
+    {
+      "path": "Fonts/Axiforma-Light.ttf",
+      "sha1": "56fabab987cd9369a99e438c4dd51129baf2ad43"
+    },
+    {
+      "path": "Fonts/Axiforma-LightItalic.ttf",
+      "sha1": "9c3d664550b9569c9b2b9af6fff1c74dbb34caf2"
+    },
+    {
+      "path": "Fonts/Axiforma-Medium.ttf",
+      "sha1": "99f123acaa76e20aaba5c97973533f79e3627366"
+    },
+    {
+      "path": "Fonts/Axiforma-MediumItalic.ttf",
+      "sha1": "74a0807899b0621ae7c8811d6914a68e0a159b8d"
+    },
+    {
+      "path": "Fonts/Axiforma-Regular.ttf",
+      "sha1": "ef9e9d1826b0c9b4f21a4ce7db8fff01b78d5bdc"
+    },
+    {
+      "path": "Fonts/Axiforma-SemiBold.ttf",
+      "sha1": "c7acdf6d925efeca4c64bf0e6d00e539a2554d63"
+    },
+    {
+      "path": "Fonts/Axiforma-SemiBoldItalic.ttf",
+      "sha1": "40f02056a78ad9e9dbe5272cbc70da9e983ad353"
+    },
+    {
+      "path": "Fonts/Axiforma-Thin.ttf",
+      "sha1": "acadf2cba9295fb8332fa72171c7ece33556fae5"
+    },
+    {
+      "path": "Fonts/Axiforma-ThinItalic.ttf",
+      "sha1": "4fcad7851939d22b2e915c505e68545165ae1f97"
+    }
+  ]
+}
